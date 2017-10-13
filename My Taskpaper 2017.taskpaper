@@ -1,0 +1,301 @@
+Inbox:
+Work Monthly:
+
+	☐ Backup CMS	@Office
+
+Controls:
+ctrl-enter: add a new todo item below the current
+ctrl-shift-enter: add a new todo item above the current
+ctrl-d: toggle completion of the task
+ctrl-shift-a: move all completed tasks to the archive section
+alt-c: cancel the selected tasks
+ctrl-shift-s: add/update timestamp for current task
+
+Work:
+	☐ IVR Programming	@Work
+	☐ Change IPSI 05A01	@Work
+	☐ AEP Lab	@Work
+	☐ WFM upgrade	@Work
+	☐
+	☐
+	☐
+
+	Verizon:
+
+	IVR Lab:
+		☐ Server list
+		☐ Download the OVA files and the license files
+
+Mobile Info:
+	Airwatch:
+		https://cn156.awmdm.com/AirWatch/Login
+		Airwatch Group scri3476
+		Airwatch Support Portal:  https://secure.air-watch.com/login?return=sso%2Foauth%2Flogin
+		PIN Code 1578
+		https://exchange.scriptpro.com/ecp/?rfr=owa
+		T:\INFORMATION_SERVICES\Operations_Group\_Telecommuncation\Airwatch\Documentation\Administration Docs\Signature Block
+
+
+	Verizon:
+		Verizon port status check 888-844-7095
+		Verizon Business 800-922-0204
+		https://sso.verizonenterprise.com/amserver/sso/login.go
+		Tax ID 48-1159505 is LLC
+		Verizon PIN code 6699
+		Verizon Account numnber 542076838-00001
+	Windtream:
+		Service 877-340-2555
+
+Personal:
+	Weekly:
+
+	☐ Clean the floors	@Weekly
+	☐ Men's group breakfast	@Weekly
+	☐ Pick up poo	@Weekly
+	☐ Clean bathroom	@Weekly
+
+	Monthly:
+		☐ Apply flea and tick to Rose	@Monthly
+		☐ Clean dog beds	@Monthly
+
+	Yearly:
+		☐ Take paper to shred days	@Yearly
+
+
+	Retirement:
+		☐ Setup a mindmap for finances @Planning
+		☐ Build on farm	@Planning
+		☐ Mistakes that we can avoid	@Planning
+			Make sure you have a plan for what you are going to do when you quit working.
+		☐ Loan payoff	@Planning
+
+		Purpose Plan:
+
+		Retirement:
+
+			Questions for Retirement:
+			☐ What Makes Me Happy?
+			☐ What Is Extremely Important To Me?
+			☐ What Made Me Happy In My Childhood And Teens That I Would Like To Do Again?
+			☐ What Made Me Happy In My Career That I Would Like To Continue Doing?
+			☐ What Would Make Me A Much Happier Person?
+			☐ What Talents Or Skills Am I Most Proud Of?
+			☐ What Makes Me The Most Creative?
+			☐ What Field Of Endeavor Invariably Challenges Me In New And Exciting Ways?
+			☐ What Special Talent Have I Neglected While Putting In Long Hard Hours In My Career?
+			☐ What Would I Like To Do That I Have Always Wanted To Do, But Never Got Around To Doing?
+			☐ How Would I Like To Make The World A Better Place In My Own Way?
+			☐ What Sort Of Legacy Would I Like To Leave?
+
+	Home:
+
+	☐ Decide what to do with formal cassock	@Home
+	☐ Burn the wood piles at the farm	@Farm
+
+
+	Personal Growth:
+
+	☐ Finish reading Three in One	@Growth
+	☐ Prayer and Spirituality Reading
+
+	Mentorship:
+			Spiritual Direction:
+				Me:
+					☐ Make an appointment with Randy
+				Greg:
+					☐ Send the book I reccommended
+				Bob:
+					☐ Send a Text to check in
+			Reading:
+			☐ Catechism Reading
+
+	Church:
+		☐ Decide what to do with formal cassock	@Church
+
+	Someday Maybe:
+		☐ Plan basement remodel @Someday
+		☐ Repair secretary desk leg @Someday
+		☐ Replace playroom window @Someday
+		☐ Stock up on food for winter and disaster	@Someday
+		☐ Sort books for give away	@Someday
+		☐ Replace playroom window	@Someday
+		☐ Arrange time with Buch and Carol Randy and Sandy @Someday
+		☐ Decide on what to do with the green house	@Someday
+		☐ Stock up on food for winter and disaster	@Someday
+		☐ Do maintenance on the shopsmith	@Someday
+		☐ Order new table for shopsmith	@Someday
+		☐ Paint body color of house by the garage door	@Someday
+		☐ Check storage in playroom	@Someday
+		☐ Repaint trim	@Someday
+		☐ Research new carving projects	@Someday
+		☐ Sort books for give away	@Someday
+		☐ Burn the wood piles at the farm	@Someday
+		☐ Finish reading Three in One	@Someday
+		☐ Go to art gallery	@Someday
+		☐ Learn how to use the trio foot pedal	@Someday
+		☐ Learn new ukulele strums	@Someday
+		☐ Finish work on the tricordia	@Someday
+		☐ Paint the interior of the house	@Someday
+		☐ Repair grout behind kitchen backsplash	@Someday
+		☐ Decide on what to do with the green house	@Someday
+		☐ ☐Check storage in playroom	@Someday
+		☐ Repair grout behind kitchen backsplash	@Someday
+		☐ Repaint trim	@Someday
+		☐ Paint the interior of the house	@Someday
+		☐ Paint body color of house by the garage door	@Someday
+		☐ Repair secretary desk	@Someday
+		☐ Finish work on the tricordia	 @Someday
+
+
+	Health:
+		10/26/2010  BMI 29.3; Body Fat 28.7; Water 46.9; Muscle Mass 50.9; Maintenance 2611 Kcal; Weight 213.8
+		10/27/2010 Weight 209.6
+		10/31/2010 Weight 208.6
+		11/1/2010 Weight 207.2
+		11/2/2010 Weight 207.2
+		04/06/2011 Weight 218.2
+	Archive:
+	✔ Apply Patches to the PBX	@Work @done(2017-10-13 15:48) @project(Work)
+	✔ Upgrade Phonetic Operator @done(2017-10-13 15:48) @project(Work)
+	✔ Upgrade Your SAL Gateway @Work @done(2017-10-13 15:49) @project(Work)
+	✔ Voicemail system change project	@Work @done(2017-10-13 15:49) @project(Work)
+	✔ Upgrade Your SAL Gateway	@Work @done(2017-10-13 15:49) @project(Work)
+	✔ input the information on the IVR Lab setup @Update @done(2017-10-13 15:49) @project(Work / IVR Lab)
+	✔ Investigate Plating the farm @Planning @done(2017-10-13 15:49) @project(Personal / Retirement)
+	✔ Plan this years vacation	@Planning	@Update @done(2017-10-13 15:50) @project(Personal / Retirement)
+		- Investigate upgrade to CM 7.X @done(2017-04-10) @project(Work)
+		- Upgrade the ACCCM to latest version	 @done(2017-04-10) @project(Work)
+		- Update Prognosis	@Work	 @done(2017-04-10) @project(Work)
+		- HR building AT&T overhead	@Work	 @done(2017-04-10) @project(Work)
+		- Download the upgrade procedure	@Work	 @done(2017-04-10) @project(Work)
+		- Apply Patches to the PBX	@Work	 @done(2017-04-10) @project(Work)
+		- Update Prognosis	@Work	 @done(2017-04-10) @project(Work)
+		- Voicemail system change project	@Work	 @done(2017-04-10) @project(Work)
+		- Upgrade Your SAL Gateway	@Work	 @done(2017-04-10) @project(Work)
+		- Server list	@Work	 @done(2017-04-10) @project(Work)
+		- IVR Programming	@Work	 @done(2017-04-10) @project(Work)
+		- Change IPSI 05A01	@Work	 @done(2017-04-10) @project(Work)
+		- WFM upgrade	@Work		 @done(2017-04-10) @project(Work)
+		- Middle East Phone calls Skype or Lync or Vonage - Call Lisa and Wolf @Work @Update @done(2017-04-10) @project(Work)
+		- Change IPSI 05A01 @Work @done(2017-04-10) @project(Work)
+		- Apply Patches to the PBX @Work	 @done(2017-04-10) @project(Work)
+		- Expense report for iPhone and cable	@Office	 @done(2017-04-10) @project(Work)
+		- Contact information for Windstream Project	@Office @done(2017-04-10) @project(Work)
+		- Expense report for iPhone and cable	@Office	 @done(2017-04-10) @project(Work)
+		- Lync vs Officelinx @Work @Update @done(2017-04-10) @project(Work)
+		- Get the taxable value of the life insurance policy. @Home @Update @done(2017-04-10) @project(Personal / Retirement)
+		- Social Security and 401k	@Planning	 @done(2017-04-10) @project(Personal / Retirement)
+		- Plan the income side of spreadsheet	@Planning @done(2017-04-10) @project(Personal / Retirement)
+		- Finish Expenses Spreadsheet	@Planning	 @done(2017-04-10) @project(Personal / Retirement)
+		- Begin work on new side business plan	@Planning @Update @done(2017-04-10) @project(Personal / Retirement)
+			Get serious about getting a side business.
+		- Plan the income side of spreadsheet	@Planning @done(2017-04-10) @project(Personal / Retirement)
+		-  Investigate the tax ramifications of selling the farm @Planning @done(2017-04-10) @project(Personal / Retirement)
+			Sell when ready get him the basis
+		- Photos printed for Jo	@Home @done(2017-04-10) @project(Personal / Home)
+		- Men's group breakfast	@Growth	 @done(2017-04-10) @project(Personal / Personal Growth)
+		- Research new carving projects	@Growth	 @done(2017-04-10) @project(Personal / Personal Growth)
+		- Learn new ukulele strums	@Growth	 @done(2017-04-10) @project(Personal / Personal Growth)
+		- Learn how to use the trio foot pedal	@Growth	 @done(2017-04-10) @project(Personal / Personal Growth)
+		- Finish reading Three in One	@Growth @done(2017-04-10) @project(Personal / Personal Growth)
+		- Review session I material	@Church	 @done(2017-04-10) @project(Personal / Church)
+		- Mentoring Course	@Church	 @done(2017-04-10) @project(Personal / Church)
+		- Holy Family School of Faith	@Church	 @done(2017-04-10) @project(Personal / Church)
+		- Review session I material	@Church	 @done(2017-04-10) @project(Personal / Church)
+		- Mentoring Course	@Church	 @done(2017-04-10) @project(Personal / Church)
+		- Holy Family School of Faith	@Church	 @done(2017-04-10) @project(Personal / Church)
+		- Decide what to do with formal cassock	@Church @done(2017-04-10) @project(Personal / Church)
+		- Hotspots @done(2016-10-12)
+		- Airwatch @done(2016-10-12)
+		- COSTCO Run W/LINDA	@Home	 @done(2016-10-12)
+			"Gluten free bread
+			Frozen Fruit
+			Liquid Dish Detergent
+			Mike's breakfast to go frozen
+		- Plan this years vacation	@Home @done(2016-10-12)
+		- Cancel AT&T Uverse  @Home @done(2016-10-12)
+		- Go to art gallery	@Growth	 @done(2016-10-12)
+		- Go to art gallery	@Growth @done(2016-10-12)
+		- Contact information for Windstream Project	@Office @done(2016-10-12)
+			"SCRIPTPRO LLC-  5835 & 9225
+			https://www.evernote.com/shard/s3/nl/499128/eb77057b- a6c4- 4c5f- 8cf4- f4288c7ead9f/
+			evernote:///view/499128/s3/eb77057b- a6c4- 4c5f- 8cf4- f4288c7ead9f/eb77057b- a6c4- 4c5f- 8cf4- f4288c7ead9f/"
+		- HR building AT&T overhead	@Work	 @done(2016-06-22) @project(Work)
+		- Download the upgrade procedure	@Work	 @done(2016-06-22) @project(Work)
+		- Download the OVA files and the license files	@Work @done(2016-06-22) @project(Work)
+		- pickup NAC from O'Brians @Home @done(2016-06-21) @project(Personal / Home)
+		- Your PayPal Credit payment is due @Home @done(2016-06-21) @project(Personal / Home)
+		- Sign into AT&T Business direct to see if it works.	@Office- Read the report on IR @done(2016-06-21) @project(Work)
+			[Retrieved]Mike, your Gartner report is inside
+
+			https://www.evernote.com/shard/s3/nl/499128/89afdf7f-71e9-4665-8890-b5c58563dccd/
+
+			evernote:///view/499128/s3/89afdf7f-71e9-4665-8890-b5c58563dccd/89afdf7f-71e9-4665-8890-b5c58563dccd/
+		- Sign into AT&T Business direct to see if it works.	@Office @done(2016-06-21) @project(Work)
+		- Quote approval @done(2016-06-21) @project(Work)
+		- Sort the wood rack in shop @done(2016-06-21)
+		- Move clothing back to closet	@Home @done(2016-06-21)
+		- Call Fr. Riley	@Home @done(2016-06-21)
+		- Health items Dr. Kawase	@Growth	 @done(2016-06-21)
+		- HONDA Element A/C Odor	@Home @done(2016-06-21)
+		- Retirement Plan	@Home @done(2016-06-21)
+		- Sort out summer clothes	@Home @done(2016-06-21)
+		- Call Curt Albrect 9136266847	@Home @done(2016-06-21)
+		- Retirement Plan	 @Planning @done(2016-06-21)
+		- Move clothing back to closet @done(2016-06-21)
+		- Frontline on Rose	@Home	 @done(2016-06-21)
+		- DSL Disconnect @done(2016-06-21)
+		- N-Focus @done(2016-06-21)
+		- Demo @done(2015-11-04)
+		- Rosary and Fatima Prayers message://%3CBY1PR0401MB1499D95449D953B3FE158EF5D02F0@BY1PR0401MB1499.namprd04.prod.outlook.com%3E @done @project(Inbox)
+		- : @done(15-10-29)
+		- Call me / Find me email problem @done(2013-06-20) @project(Phone)
+		- Continue conference bridge research with Taylor and development of options @done(2013-06-20) @project(Phone)
+			- Research a used Net+4 card for Polycom bridge @done(2013-06-20)
+			- Backup conference bridge @done(2013-06-20)
+		- Avaya Upgrade @done(2013-06-20) @project(Phone)
+			- Prepare for meeting with Bill @done(2013-06-20)
+		- Project - Move to new AT&T LD @done(2013-06-20) @project(Phone)
+			- Review cut list from AT&T @done(2013-06-20)
+		- Call on Thailand number @done(2013-06-20) @project(Phone)
+		- Gigaman contract signed @done(2013-06-20) @project(Phone)
+			- Verify the paths for Gigaman @done(2013-06-20)
+		- Clean up Wiring in Rack @done(2013-06-20) @project(Phone Room)
+		- Make Daily Check list @done(2013-06-20) @project(Home)
+		- Write Upgrade Proposal  @done(2013-06-20)
+		- IVR for CS $80,000 @done(2013-06-20)
+		- Call on cutover @done(2013-06-20)
+		- Paint mailbox base @done(2013-06-20) @project(WRHOA)
+		- Run though Emails For Action Items @done(2013-06-20) @project(Work)
+		- Design a desk / storage unit for shop @Home
+		- Build box for Joy @Home
+		- Clean both cabinets in shop @Home
+		- Apply flea and tick to Rose	@Home
+		- Clean the floors	@Home
+		- Pick up poo	@Home
+		- Take paper to shred days	@Home
+		- Finish Florence's taxes	Home	@Home
+		- Clean dog beds	@Home
+		- Burn the wood piles at the farm	@Farm
+		- Clean bathroom	@Home
+		- Photos printed for Jo	@Home
+		- Finish Florence's taxes	@Home
+		- Repair secretary desk	@Home
+		- Decide what to do with formal cassock	@Home
+		- Remove the filing cabinets from upstairs @Home
+		- Essays
+		- Reflection Paper
+AT&T:
+	You may cancel the lines at our National Business Services (NBS 800-999-5445) Mon - Fri 8am-8:30pm ET they will be the one who will cancel it for you.
+	https://www.wireless.att.com/business/index.jsp?_requestid=2072
+	When calling in to AT&T you will likely be prompted for a PIN.
+	AT&T Service cancellation
+	The PIN is 04405. Account # is 826760496
+	AT&T 800-999-5445
+	mirwin@scriptpro.com PIN 11077
+	Puddlecat task List:
+		- Buy 5 sheets of plywood	@Puddlecat
+		- Order the polyester tape	@Puddlecat
+		- Buy titebond III glue	@Puddlecat
+		- Start layout process	@Puddlecat
+		- Layout bulkheads	Puddlecat	@Puddlecat
